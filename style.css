@@ -1,0 +1,126 @@
+body {
+    /*padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;*/
+}
+.flexpersonas {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+ }
+
+ .flextext{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+ }
+
+ .wireframe {
+     display: flex;
+     justify-content: space-around;
+     padding-bottom: 2rem;
+     padding-top: 1rem;
+  }
+
+ .styleguide{
+    padding-bottom: 3rem;
+ }
+
+
+ .project{
+    padding-bottom: 3rem;
+ }
+
+.personas{
+    background-color: #80C2D7;
+}
+
+ .redesign{
+    background-color: #97d4e8;
+ }
+
+ .iterative{
+    background-color: #d4eff2;
+}
+
+.hifi{
+    background-color: #D7F4F3;
+}
+
+ .text{
+    padding-left: 10rem;
+    padding-right: 10rem;
+ }
+
+ .captiontextleft{
+    padding-left: 10rem;
+    padding-right: 2rem;
+ }
+ .captiontextright{
+    padding-right: 10rem;
+    padding-left: 2rem;
+ }
+
+ h1{
+    padding-top: 2rem;
+ }
+
+ .blurbtile{
+    background-color: lightgray;
+    border-radius: 0.5rem;
+    height: 10rem;
+    width: 15rem;
+    object-fit: cover;
+
+ }
+ 
+ .mainbutton{
+    padding-top: 2rem;
+ }
+
+.image2{
+    width: 65%;
+    height: auto;
+}
+
+.image3{
+    width: 80%;
+    height: auto;
+}
+
+ /*iterative*/
+ .image {
+    width: 80%;
+    height: auto;
+}
+.image1 {
+    width: 80%;
+    height: auto;
+    text-align: left;
+}
+
+.quote{
+    font-family: "DM Sans", sans-serif;
+    font-size: 1.1em;
+    font-weight:lighter; 
+    width:60%;
+    text-align: center;
+    margin:auto;
+}
+
+.box {
+    height: 600px;
+}
+
+.content {
+    padding: 30px 200px 10px 200px;
+}
+
+#overview {
+    padding: 80px 200px 10px 200px;
+}
+.list {
+    font-size: 1.1em;
+}
