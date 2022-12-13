@@ -67,13 +67,12 @@ body {
     padding-top: 2rem;
  }
 
- .blurbtile{
-    background-color: lightgray;
-    border-radius: 0.5rem;
-    height: 10rem;
-    width: 15rem;
-    object-fit: cover;
+ .main{
+    background-color: #0a161a;
+ }
 
+ .subtitle{
+    padding-bottom: 3rem;
  }
  
  .mainbutton{
@@ -118,9 +117,19 @@ body {
     padding: 30px 200px 10px 200px;
 }
 
-#overview {
-    padding: 80px 200px 10px 200px;
-}
 .list {
     font-size: 1.1em;
+}
+
+h4{
+    padding-left: 10rem;
+    padding-top: 3rem;
+}
+
+.about{
+    background-color: #80C2D7;
+}
+
+.projectsection{
+    background-color: white;
 }
